@@ -1,4 +1,4 @@
-package com.example.secondmodernui.ui
+package com.example.secondmodernui.component
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
